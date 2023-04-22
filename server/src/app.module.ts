@@ -5,7 +5,7 @@ import { ConfigModule } from '@nestjs/config';
 import { SequelizeConfigService } from './config/sequelizeConfig.service';
 import { databaseConfig } from './config/configuration';
 
-// test
+// test2
 
 @Module({
   imports: [
